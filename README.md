@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shykot aka Shylesh Kotyan
 - 👀 I’m interested in many things but yet confused to catch one straight task
-- 🌱 I’m currently learning devops and cloud architect.
+- 🌱 I’m currently learning devops and Ai code.
 - 💞️ I’m looking to collaborate on some serious stuff
 - 📫 you could mail me on shykot@hotmail.com
 - 👀 I feel easier to work on any task, not sure why it is damn easy
